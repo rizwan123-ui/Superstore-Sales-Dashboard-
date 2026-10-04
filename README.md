@@ -22,3 +22,6 @@ This project presents an interactive Superstore Sales Dashboard created in Micro
 
 ## Dashboard
 The dashboard provides a clear overview of regional revenue, product category performance, and monthly sales trends.
+## Dashboard Preview
+
+![Superstore Sales Dashboard](SALES_DASHBOARD.PNG)
